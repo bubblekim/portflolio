@@ -1,0 +1,24 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+@import url("http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css");
+
+*{margin: 0; padding: 0; font-size: inherit; font-weight: inherit; box-sizing: border-box;}
+ul,li,ol{list-style: none;}
+a{text-decoration: none; color: inherit;}
+em{font-style: inherit;}
+
+img{vertical-align: middle;} */
+
+/* 웹폰트 - 구글웹폰트  https://fonts.google.com/?subset=korean */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+/* 웹아이콘 - xeicon https://xpressengine.github.io/XEIcon/library-2.3.3.html */
+@import url("http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css");
+
+*{margin: 0; padding: 0; font-size: inherit; font-weight: inherit;}
+ul,ol{list-style: none;}
+a{text-decoration: none; color: inherit; line-height: 1;}
+
+img{vertical-align: middle;}
+
+header,nav,section,main,aside,figure,article,footer{display: block;}
